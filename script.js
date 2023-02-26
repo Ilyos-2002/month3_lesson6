@@ -4,7 +4,7 @@
  var moneyTotal = 500 * moneyDol + 250 * moneyDol + 120 * moneyYev;
  var saytText = document.querySelector("p");
 
- if (userMoney >= moneyTotal) {
+ if (userMoney > moneyTotal) {
      saytText.textContent = " Oq yo'l,Alisher! Sen uddalading."
 
  } else if (userMoney < moneyTotal) {
