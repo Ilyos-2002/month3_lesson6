@@ -2,10 +2,12 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     font-weight: 600;
-    color: blue;
+    color: rgb(24, 33, 37);
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 100px;
-    background-color: aqua;
+    background-color: rgb(89, 131, 199);
     display: inline-block;
+    text-align: center;
+    padding: 20px;
 }
